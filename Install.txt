@@ -1,0 +1,17 @@
+1. Clone the repository using the command `git clone https://github.com/username/repository.git`. Replace `https://github.com/username/repository.git` with the link to the repository you have been provided.
+2. Navigate to the project directory using the command `cd AI_Advertising_Platform_V3`.
+3. Install the required dependencies by running `pip install -r requirements.txt`.
+4. Set up the environment variables as mentioned in the `config.py` file.
+5. Run the `user_interface.py` file to start the application using the command `python user_interface.py`.
+6. The application will prompt you to enter an OTP for authentication. This OTP will be generated and displayed in the console.
+7. Enter the OTP in the user interface to authenticate.
+8. Once authenticated, you will be able to use the features of the AI Advertising Platform V3.
+9. You can make API requests, view the response, and perform other actions as per the options provided in the user interface.
+10. To close the application, simply close the user interface window.
+11. To create a new GitHub repository, follow these steps:
+    - Go to GitHub website and log in to your account.
+    - Click on the '+' icon in the upper right corner and select 'New repository'.
+    - Name your repository and provide a description (optional).
+    - Choose to make the repository either public or private.
+    - You can initialize the repository with a README, .gitignore, or license if you want.
+    - Click 'Create repository' to finish.
